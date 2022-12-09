@@ -9,7 +9,7 @@ services:
       # For use with PHP (e.g. `php -S localhost:8080`)
       - "8000:8000"
     command: sleep infinity
-  # uncomment to install database
+  # comment/uncomment to install/remove mariadb/mysql database
   mariadb:
    image: mariadb:10.4
    expose:
