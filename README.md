@@ -10,7 +10,7 @@ This repo provides the .devcontainer files needed to start a CodeSpace for Stata
 1. Container should build and IDE should open ready for use
 1. (Optional) Run init_codespace.sh to create .env and run DB migrations/seeds
     ```bash
-    . ./init_codespace.sh
+    . ./start.sh
     ```
 1. To access your site use port forwarding by serving the application
     ```bash
