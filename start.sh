@@ -2,6 +2,8 @@ cp .env.example .env
 
 composer install
 
+php artisan key:generate
+
 php please make:user
 
 php artisan cache:clear
