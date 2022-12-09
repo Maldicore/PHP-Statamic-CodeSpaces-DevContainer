@@ -39,6 +39,6 @@ DB_PASSWORD=secret
     serve
     ```
 
-# Credits
+# Credits/Inspirations
 https://github.com/mechawrench/php-laravel-codespaces-devcontainer
 https://github.com/PMessinezis/vscode.laravel.devcontainer/blob/master/Dockerfile
